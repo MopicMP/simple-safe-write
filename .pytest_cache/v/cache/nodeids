@@ -1,0 +1,5 @@
+[
+  "tests/test_simple_safe_write.py::TestWrite::test_basic",
+  "tests/test_simple_safe_write.py::TestWrite::test_empty",
+  "tests/test_simple_safe_write.py::TestWrite::test_type_error"
+]
